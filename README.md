@@ -19,7 +19,7 @@ A responsive personal portfolio website showcasing my profile, education, techni
 ## Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shihanafathima-s/FUTURE_FS_01
+   git clone https://github.com/shihanafathima-s/FUTURE_FS_01.git
    ```
 2. Open the project folder.
 3. Run `index.html` in your browser or use VS Code Live Server.
